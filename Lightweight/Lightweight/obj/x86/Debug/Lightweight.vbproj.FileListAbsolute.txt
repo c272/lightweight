@@ -1,0 +1,18 @@
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\bin\Debug\Lightweight.exe
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\bin\Debug\Lightweight.pdb
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\bin\Debug\Lightweight.xml
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.Form1.resources
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.Resources.resources
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.vbproj.GenerateResource.Cache
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.exe
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.xml
+C:\Users\13LTang\AppData\Local\Temporary Projects\Lightweight\obj\x86\Debug\Lightweight.pdb
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.exe
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.xml
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.pdb
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Debug\Lightweight.exe
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Debug\Lightweight.pdb
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Debug\Lightweight.xml
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.Form1.resources
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.Resources.resources
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Debug\Lightweight.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Release\Lightweight.exe
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Release\Lightweight.pdb
+S:\Computing\lightweight\Lightweight\Lightweight\bin\Release\Lightweight.xml
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.Form1.resources
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.Resources.resources
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.vbproj.GenerateResource.Cache
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.exe
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.xml
+S:\Computing\lightweight\Lightweight\Lightweight\obj\x86\Release\Lightweight.pdb
