@@ -1,4 +1,5 @@
 # Lightweight
+![Logo](https://image.ibb.co/jKgWsS/lightweight_logo.png)
 *An extremely small portable browser, using as little RAM as possible.*
 
 ## Setup
