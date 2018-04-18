@@ -1,7 +1,7 @@
 # Lightweight
-![logo](https://image.ibb.co/m0Lfmn/lightweight_small.png)
-
 *An extremely small portable browser, using as little RAM as possible.*
+
+![logo](https://image.ibb.co/m0Lfmn/lightweight_small.png)
 
 ## Setup
 If you wish to edit the source, download the VS2010 solution file from the main repository as a .zip file.
