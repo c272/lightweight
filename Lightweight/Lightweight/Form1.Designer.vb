@@ -36,7 +36,7 @@ Partial Class Form1
         Me.WebBrowser1.ScriptErrorsSuppressed = True
         Me.WebBrowser1.Size = New System.Drawing.Size(1240, 637)
         Me.WebBrowser1.TabIndex = 0
-        Me.WebBrowser1.Url = New System.Uri("http://bing.com", System.UriKind.Absolute)
+        Me.WebBrowser1.Url = New System.Uri("http://stegg.pcriot.com/splash.html", System.UriKind.Absolute)
         '
         'TextBox1
         '
